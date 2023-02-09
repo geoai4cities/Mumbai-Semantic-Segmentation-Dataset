@@ -165,3 +165,23 @@ The dataset was created from high-resolution, true-color satellite imagery of Pl
 </table>
 
 </div>
+
+
+# Citing this work
+
+<p align="justify">
+If you use this dataset in a scientific publication, please consider citing:
+</p>
+
+```
+@article{Dabra2023,
+  doi = {10.1007/s00521-023-08320-7},
+  url = {https://doi.org/10.1007/s00521-023-08320-7},
+  year = {2023},
+  month = feb,
+  publisher = {Springer Science and Business Media {LLC}},
+  author = {Ayush Dabra and Vaibhav Kumar},
+  title = {Evaluating green cover and open spaces in informal settlements of Mumbai using deep learning},
+  journal = {Neural Computing and Applications}
+}
+```
