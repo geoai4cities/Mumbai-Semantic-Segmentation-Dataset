@@ -3,7 +3,9 @@
 # Data Description
 
 <p align="justify">
-The dataset is divided into two groups, each including satellite images and their corresponding semantic segmentation masks. The images in each group are of two different sizes. The first group comprises 110 satellite images of size 600×600 pixels and manually labelled semantic segmentation masks. Figure 1 depicts some sample images and their labelled semantic segmentation masks from the first group. The second group contains three sets: training, validation, and testing. Each set consists of images of size 120×120 pixels which are derived and processed from the first group. Researchers can employ it to train and evaluate machine learning models. The first group is provided in the <code>Main_Dataset</code> directory, and the second group is provided in the <code>Prepared_Dataset</code> directory. All the image-mask pairs were named with the same file names, for example, <code>tile_5.37.tif</code> and <code>tile_5.37.png</code>. For the sample images, directory tree and description of the dataset, see Figure 1, Figure 2 and Table 1, respectively.
+The dataset is divided into two groups, each including satellite images and their corresponding semantic segmentation masks. The images in each group are of two different sizes. The first group comprises 110 satellite images of size 600×600 pixels and manually labelled semantic segmentation masks. Figure 1 depicts some sample images and their labelled semantic segmentation masks from the first group. The second group contains three sets: training, validation, and testing. Each set consists of images of size 120×120 pixels which are derived and processed from the first group. Researchers can employ it to train and evaluate machine learning models. The first group is provided in the <code>Main_Dataset</code> directory, and the second group is provided in the <code>Prepared_Dataset</code> directory. All the image-mask pairs were named with the same file names, for example, <code>tile_5.37.tif</code> and <code>tile_5.37.png</code>. For the sample images, directory tree and description of the dataset, see Figure 1, Figure 2 and Table 1, respectively. The dataset is freely available here: <a href="https://data.mendeley.com/datasets/xj2v49zt26">https://data.mendeley.com/datasets/xj2v49zt26</a>.
+
+ 
 </p>
 
 
@@ -174,6 +176,16 @@ If you use this dataset in a scientific publication, please consider citing:
 </p>
 
 ```
+@misc{https://doi.org/10.17632/xj2v49zt26.1,
+  doi = {10.17632/XJ2V49ZT26.1},
+  url = {https://data.mendeley.com/datasets/xj2v49zt26/1},
+  author = {{Ayush Dabra}},
+  title = {Manually Annotated High Resolution Satellite Image Dataset of Mumbai for Semantic Segmentation},
+  publisher = {Mendeley},
+  year = {2023},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+
 @article{Dabra2023,
   doi = {10.1007/s00521-023-08320-7},
   url = {https://doi.org/10.1007/s00521-023-08320-7},
