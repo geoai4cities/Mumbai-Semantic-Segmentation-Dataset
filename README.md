@@ -1,9 +1,9 @@
 # Manually Annotated High Resolution Satellite Image Dataset of Mumbai for Semantic Segmentation
 
-# Data Description
+## Data Description
 
 <p align="justify">
-The dataset is divided into two groups, each including satellite images and their corresponding semantic segmentation masks. The images in each group are of two different sizes. The first group comprises 110 satellite images of size 600×600 pixels and manually labelled semantic segmentation masks. Figure 1 depicts some sample images and their labelled semantic segmentation masks from the first group. The second group contains three sets: training, validation, and testing. Each set consists of images of size 120×120 pixels which are derived and processed from the first group. Researchers can employ it to train and evaluate machine learning models. The first group is provided in the <code>Main_Dataset</code> directory, and the second group is provided in the <code>Prepared_Dataset</code> directory. All the image-mask pairs were named with the same file names, for example, <code>tile_5.37.tif</code> and <code>tile_5.37.png</code>. For the sample images, directory tree and description of the dataset, see Figure 1, Figure 2 and Table 1, respectively. The dataset is freely available here: <a href="https://data.mendeley.com/datasets/xj2v49zt26">https://data.mendeley.com/datasets/xj2v49zt26</a>.
+The dataset is divided into two groups, each including satellite images and their corresponding semantic segmentation masks. The images in each group are of two different sizes. The first group comprises 110 satellite images of size 600×600 pixels and manually labelled semantic segmentation masks. Figure 1 depicts some sample images and their labelled semantic segmentation masks from the first group. The second group contains three sets: training, validation, and testing. Each set consists of images of size 120×120 pixels which are derived and processed from the first group. Researchers can employ it to train and evaluate machine learning models. The first group is provided in the <code>Main_Dataset</code> directory, and the second group is provided in the <code>Prepared_Dataset</code> directory. All the image-mask pairs were named with the same file names, for example, <code>tile_5.37.tif</code> and <code>tile_5.37.png</code>. For the sample images, directory tree and description of the dataset, see Figure 1, Figure 2 and Table 1, respectively. The dataset is freely available here: <a href="https://data.mendeley.com/datasets/xj2v49zt26" target="_blank">https://data.mendeley.com/datasets/xj2v49zt26</a>.
 
  
 </p>
@@ -52,7 +52,7 @@ The dataset is divided into two groups, each including satellite images and thei
 
 </div>
 
-# Experimental Design, Material, and Methods
+## Experimental Design, Material, and Methods
 
 <p align="justify">
 The dataset was created from high-resolution, true-color satellite imagery of Pleiades-1A acquired on March 15, 2017. Pleiades is an Airbus product that provides imagery with a 0.5m resolution at different spectral combinations. A total of 110 patches of size 600×600 pixels were selected by visually eyeballing random locations in the city that contain a wide variety of urban characteristics such as vegetation, slums, built-up, roads, etc. The patches were then manually labelled with polygons using Intel's Computer Vision Annotation Tool (CVAT). Six unique classes were used to categorize the images, namely (1) vegetation; (2) built-up; (3) informal settlements; (4) impervious surfaces (roads/highways, streets, parking lots, road-like areas around buildings, etc.); (5) barren; and (6) water. In addition to these six major classes, the dataset also contains another class termed ‘Unlabelled’, which makes up only 0.08% of the dataset. It primarily consists of airplanes and a few other obscure spots and structures. The ground truth's color legend is described in Table 2 below. Each 600×600 pixels patch was further divided into 120×120 pixels sized tiles with 50% horizontal and vertical overlapping (see Figure 3), making a total of 8910 tiles. This helped in the generation of more training data that would result in better classification. Out of the total 8910 labelled patches, 80% patches (total: 7128) are present in the training set, 10% as the validation set (total: 891), and the remaining 10% for testing (total: 891). Table 3 illustrates the distribution of the classes in the datasets.
@@ -169,7 +169,7 @@ The dataset was created from high-resolution, true-color satellite imagery of Pl
 </div>
 
 
-# Citing this work
+## Citing this work
 
 <p align="justify">
 If you use this dataset in a scientific publication, please consider citing:
