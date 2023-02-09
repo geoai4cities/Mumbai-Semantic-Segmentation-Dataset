@@ -197,3 +197,18 @@ If you use this dataset in a scientific publication, please consider citing:
   journal = {Neural Computing and Applications}
 }
 ```
+## License
+
+<p align="justify">
+This dataset is released under the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a> license.
+</p>
+
+## Contact
+
+<p align="justify">
+For comments and feedback, contact the lead researcher Ayush Dabra at <a href="mailto:ayushd19@iiserb.ac.in" target="_blank" rel="noopener noreferrer">ayushd19@iiserb.ac.in</a>
+ or the principal investigator <a href="https://sites.google.com/view/vaibhavkumar1/" target="_blank" rel="noopener noreferrer">Vaibhav Kumar</a> at <a href="mailto:vaibhav@iiserb.ac.in" target="_blank" rel="noopener noreferrer">vaibhav@iiserb.ac.in</a>.
+</p>
+
+
+
