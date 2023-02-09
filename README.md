@@ -85,7 +85,7 @@ The dataset was created from high-resolution, true-color satellite imagery of Pl
 </figure>
 
 
-<style type="text/css">
+<!-- <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -95,7 +95,7 @@ The dataset was created from high-resolution, true-color satellite imagery of Pl
 .tg .tg-18eh{border-color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-en52{border-color:#000000;font-style:italic;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-xwyw{border-color:#000000;text-align:center;vertical-align:middle}
-</style>
+</style> -->
 
 <div align="center">
 
