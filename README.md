@@ -182,11 +182,11 @@ If you use this dataset in a scientific publication, please consider citing:
 </p>
 
 <p align="justify">
-Dabra, A., Kumar, V. Evaluating green cover and open spaces in informal settlements of Mumbai using deep learning. <i>Neural Comput & Applic</i> (2023). <a href="https://doi.org/10.1007/s00521-023-08320-7" target="_blank" rel="noopener noreferrer">https://doi.org/10.1007/s00521-023-08320-7</a>
+Dabra, Ayush; Upadhyay, Vaibhav (2023), “Manually Annotated High Resolution Satellite Image Dataset of Mumbai for Semantic Segmentation”, Mendeley Data, V1, doi: 10.17632/xj2v49zt26.1
 </p>
 
 <p align="justify">
-Dabra, Ayush; Upadhyay, Vaibhav (2023), “Manually Annotated High Resolution Satellite Image Dataset of Mumbai for Semantic Segmentation”, Mendeley Data, V1, doi: 10.17632/xj2v49zt26.1
+Dabra, A., Kumar, V. Evaluating green cover and open spaces in informal settlements of Mumbai using deep learning. <i>Neural Comput & Applic</i> (2023). <a href="https://doi.org/10.1007/s00521-023-08320-7" target="_blank" rel="noopener noreferrer">https://doi.org/10.1007/s00521-023-08320-7</a>
 </p>
 
 ```
