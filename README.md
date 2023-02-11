@@ -168,6 +168,9 @@ The dataset was created from high-resolution, true-color satellite imagery of Pl
 
 </div>
 
+## Access
+
+The dataset is freely available on <a href="https://data.mendeley.com/datasets/xj2v49zt26" target="_blank" rel="noopener noreferrer">Mendeley Data</a>.
 
 ## Citing this work
 
@@ -197,6 +200,7 @@ If you use this dataset in a scientific publication, please consider citing:
   journal = {Neural Computing and Applications}
 }
 ```
+
 ## License
 
 <p align="justify">
